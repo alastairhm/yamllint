@@ -10,6 +10,12 @@ Dates in this file are in format of YYYY-MM-DD (2019-12-12 means 12th of Decembe
 
 ## Unreleased
 
+## 1.26.1
+
+### Updated
+
+* Updated to version 1.26.1 of Yamllint
+
 ## 1.23.0
 
 ### Updated
