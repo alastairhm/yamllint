@@ -11,6 +11,7 @@ Dates in this file are in format of YYYY-MM-DD (2019-12-12 means 12th of Decembe
 ## Unreleased
 
 * Github Actions to build and push to Github packages
+* Alpine 3.15 Base
 
 ## 1.26.1
 
