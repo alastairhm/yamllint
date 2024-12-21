@@ -9,6 +9,7 @@ Dates in this file are in format of YYYY-MM-DD (2019-12-12 means 12th of Decembe
 
 
 ## Unreleased
+* Docker Buildx
 
 ## 1.35.1
 * Alpine 3.19
